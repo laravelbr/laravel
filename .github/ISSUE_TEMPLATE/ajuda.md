@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Iniciei com um parágrafo breve resumindo seu problema e como você precisa de ajuda.
+Inicie com um parágrafo breve resumindo seu problema e como você precisa de ajuda.
 
 Em seguida adicione todos os detalhes que puder, incluindo o que for relevante, como o sistema operacional que está usando e as versões das aplicaćões envolvidas (php, npm, yarn, etc)
 
